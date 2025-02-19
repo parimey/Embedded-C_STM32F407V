@@ -1,0 +1,6 @@
+23:21:04 **** Clean-only build of configuration Debug for project ASCII ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf ASCII.exe ASCII.d ASCII.o 
+
+23:21:04 Build Finished. 0 errors, 0 warnings. (took 251ms)
+
