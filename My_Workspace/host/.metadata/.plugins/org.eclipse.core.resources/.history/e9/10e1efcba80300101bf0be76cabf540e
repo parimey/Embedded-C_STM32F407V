@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: Mar 18, 2025
+ *      Author: parimeydpatil
+ */
+
+
+#include <stdio.h>
+#include "math.h"
+
+int main()
+{
+	printf("Addition is: %d\n", math_add(243,565));
+
+	return 0;
+}
