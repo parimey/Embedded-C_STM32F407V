@@ -7,8 +7,7 @@
 
 #include <stdio.h>
 
-int main()
-{
+int main() {
 	printf("Hello World!!");
 
 	printf("\nEnter to exit the app: ");
