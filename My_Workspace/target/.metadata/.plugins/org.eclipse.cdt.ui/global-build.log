@@ -1,17 +1,24 @@
-22:54:51 **** Build of configuration Debug for project 001SizeOfOperator ****
+09:33:57 **** Build of configuration Debug for project 006LED_ON_Bitwise_Shift_Operator ****
 make -j11 all 
 arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -x assembler-with-cpp -MMD -MP -MF"Startup/startup_stm32f407vgtx.d" -MT"Startup/startup_stm32f407vgtx.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Startup/startup_stm32f407vgtx.o" "../Startup/startup_stm32f407vgtx.s"
-arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -save-temps -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
-arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -save-temps -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
-arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -save-temps -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
-arm-none-eabi-gcc -o "001SizeOfOperator.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/My_Workspace/target/001SizeOfOperator/STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="001SizeOfOperator.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: 001SizeOfOperator.elf
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
+arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
+arm-none-eabi-gcc -o "006LED_ON_Bitwise_Shift_Operator.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/My_Workspace/target/006LED_ON_Bitwise_Shift_Operator/STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="006LED_ON_Bitwise_Shift_Operator.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 006LED_ON_Bitwise_Shift_Operator.elf
  
-arm-none-eabi-size  001SizeOfOperator.elf 
-arm-none-eabi-objdump -h -S 001SizeOfOperator.elf  > "001SizeOfOperator.list"
+arm-none-eabi-size  006LED_ON_Bitwise_Shift_Operator.elf 
+arm-none-eabi-objdump -h -S 006LED_ON_Bitwise_Shift_Operator.elf  > "006LED_ON_Bitwise_Shift_Operator.list"
    text	   data	    bss	    dec	    hex	filename
-   5076	     92	   1900	   7068	   1b9c	001SizeOfOperator.elf
+    728	      0	   1568	   2296	    8f8	006LED_ON_Bitwise_Shift_Operator.elf
 Finished building: default.size.stdout
  
-Finished building: 001SizeOfOperator.list
+Finished building: 006LED_ON_Bitwise_Shift_Operator.list
+ 
+09:34:03 **** Incremental Build of configuration Debug for project 006LED_ON_Bitwise_Shift_Operator ****
+make -j11 all 
+arm-none-eabi-size  006LED_ON_Bitwise_Shift_Operator.elf 
+   text	   data	    bss	    dec	    hex	filename
+    728	      0	   1568	   2296	    8f8	006LED_ON_Bitwise_Shift_Operator.elf
+Finished building: default.size.stdout
  
