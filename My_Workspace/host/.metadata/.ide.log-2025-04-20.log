@@ -1,0 +1,727 @@
+2025-04-20 18:07:30,356 [INFO] Activator:176 - 
+
+
+2025-04-20 18:07:30,360 [INFO] Activator:177 - !SESSION log4j initialized
+2025-04-20 18:07:33,367 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-04-20 18:07:35,122 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-04-20 18:07:36,963 [INFO] ApplicationProperties:184 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-20 18:07:36,972 [INFO] DbMcusXml:78 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//mcu/
+2025-04-20 18:07:36,972 [INFO] ApiDb:274 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/boardmanager/
+2025-04-20 18:07:36,973 [WARN] ApiDb:259 - Overriding images path with different value:  => /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/mcufinder/images/
+2025-04-20 18:07:36,978 [INFO] ApiDb:250 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:36,979 [INFO] DbMcusAds:125 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:36,979 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/cs/
+2025-04-20 18:07:37,085 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-20 18:07:37,141 [INFO] DbMcusXml:78 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//mcu/
+2025-04-20 18:07:37,141 [INFO] ApiDb:274 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/boardmanager/
+2025-04-20 18:07:37,141 [INFO] ApiDb:261 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/mcufinder/images/
+2025-04-20 18:07:37,142 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,142 [INFO] ApiDb:250 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:37,142 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,142 [INFO] DbMcusAds:125 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:37,142 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,142 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,142 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/cs/
+2025-04-20 18:07:37,188 [INFO] MainPanel:272 - HeapMemory: 347078656
+2025-04-20 18:07:37,426 [INFO] DbMcusXml:78 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//mcu/
+2025-04-20 18:07:37,426 [INFO] ApiDb:274 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/boardmanager/
+2025-04-20 18:07:37,426 [INFO] ApiDb:261 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554//db//plugins/mcufinder/images/
+2025-04-20 18:07:37,426 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,426 [INFO] ApiDb:250 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:37,426 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,427 [INFO] DbMcusAds:125 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/
+2025-04-20 18:07:37,427 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,427 [WARN] DbFile:41 - Overriding database path with different value: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder/ => /Users/parimeydpatil/.stmcufinder/plugins/mcufinder
+2025-04-20 18:07:37,427 [INFO] CrossReferenceDbSqlite:203 - Set database path to: /Users/parimeydpatil/.stmcufinder/plugins/mcufinder//mcu/cs/
+2025-04-20 18:07:37,441 [INFO] ApplicationProperties:184 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-20 18:07:37,442 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-04-20 18:07:37,443 [INFO] PluginManage:310 - Check plugin analytics
+2025-04-20 18:07:37,876 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: 
+2025-04-20 18:07:37,880 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: 
+2025-04-20 18:07:37,881 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: 
+2025-04-20 18:07:37,893 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-04-20 18:07:37,898 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-04-20 18:07:37,927 [INFO] CADModel:105 - Init CAD model plugin
+2025-04-20 18:07:37,927 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-04-20 18:07:37,928 [INFO] PluginManage:310 - Check plugin clock
+2025-04-20 18:07:37,936 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-04-20 18:07:37,937 [INFO] PluginManage:310 - Check plugin ddr
+2025-04-20 18:07:37,939 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-04-20 18:07:37,939 [INFO] PluginManage:310 - Check plugin filemanager
+2025-04-20 18:07:38,067 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-04-20 18:07:38,068 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-04-20 18:07:38,074 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-04-20 18:07:38,074 [INFO] PluginManage:310 - Check plugin lpbam
+2025-04-20 18:07:38,079 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-04-20 18:07:38,079 [INFO] PluginManage:310 - Check plugin memorymap
+2025-04-20 18:07:38,085 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-04-20 18:07:38,085 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-04-20 18:07:38,089 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-04-20 18:07:38,089 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-04-20 18:07:38,155 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-04-20 18:07:38,259 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-04-20 18:07:38,259 [INFO] PluginManage:310 - Check plugin power
+2025-04-20 18:07:38,265 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-04-20 18:07:38,265 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-04-20 18:07:38,290 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-04-20 18:07:38,290 [INFO] PluginManage:310 - Check plugin rif
+2025-04-20 18:07:38,295 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-04-20 18:07:38,295 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-04-20 18:07:38,413 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-04-20 18:07:38,414 [INFO] PluginManage:310 - Check plugin tools
+2025-04-20 18:07:38,413 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-04-20 18:07:38,416 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-04-20 18:07:38,416 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-04-20 18:07:38,417 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-04-20 18:07:38,417 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-04-20 18:07:38,521 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-04-20 18:07:38,521 [INFO] PluginManage:310 - Check plugin updater
+2025-04-20 18:07:38,546 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-04-20 18:07:38,546 [INFO] PluginManage:310 - Check plugin userauth
+2025-04-20 18:07:38,549 [INFO] UserAuth:118 - Init User Auth plugin
+2025-04-20 18:07:38,550 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-04-20 18:07:38,552 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-04-20 18:07:38,709 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-04-20 18:07:38,772 [INFO] CADModel:165 - CPN selected for project level
+2025-04-20 18:07:38,772 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-20 18:07:38,781 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,782 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-04-20 18:07:38,786 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,786 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-04-20 18:07:38,789 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,789 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-04-20 18:07:38,794 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,794 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-04-20 18:07:38,795 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,795 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-04-20 18:07:38,796 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,796 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-04-20 18:07:38,797 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,797 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-04-20 18:07:38,798 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,798 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-04-20 18:07:38,799 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,799 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-04-20 18:07:38,800 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,800 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-04-20 18:07:38,801 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,801 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-04-20 18:07:38,802 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,802 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-04-20 18:07:38,803 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,803 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-04-20 18:07:38,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,805 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-04-20 18:07:38,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,806 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-04-20 18:07:38,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,807 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-04-20 18:07:38,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,808 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-04-20 18:07:38,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,809 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-04-20 18:07:38,810 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,811 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-04-20 18:07:38,812 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,812 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-04-20 18:07:38,812 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,813 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-04-20 18:07:38,815 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,815 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-04-20 18:07:38,817 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,817 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-04-20 18:07:38,818 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,818 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-04-20 18:07:38,819 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,820 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-04-20 18:07:38,822 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,822 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-04-20 18:07:38,824 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,824 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-04-20 18:07:38,827 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,829 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-04-20 18:07:38,832 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,832 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-04-20 18:07:38,833 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,833 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-04-20 18:07:38,833 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,833 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-04-20 18:07:38,835 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,835 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-04-20 18:07:38,837 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,837 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-04-20 18:07:38,840 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,840 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-04-20 18:07:38,843 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,843 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-04-20 18:07:38,845 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,845 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-04-20 18:07:38,846 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,846 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-04-20 18:07:38,846 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,847 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-04-20 18:07:38,847 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,847 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-04-20 18:07:38,848 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,848 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-04-20 18:07:38,849 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,849 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-04-20 18:07:38,850 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,851 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-04-20 18:07:38,852 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,852 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-04-20 18:07:38,854 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,854 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-04-20 18:07:38,855 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,855 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-04-20 18:07:38,857 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-20 18:07:38,857 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-04-20 18:07:38,962 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,002 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-20 18:07:39,022 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-20 18:07:39,031 [INFO] CADModel:165 - CPN selected for project level
+2025-04-20 18:07:39,031 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-20 18:07:39,031 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,031 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-04-20 18:07:39,206 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,207 [INFO] CADModel:165 - CPN selected for project level
+2025-04-20 18:07:39,207 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-20 18:07:39,207 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,207 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-04-20 18:07:39,209 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,316 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,321 [INFO] DbMcusAds:53 - JSON generation date=Thu Mar 06 20:24:21 IST 2025 (1741272861825)
+2025-04-20 18:07:39,321 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,358 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-04-20 18:07:39,508 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,510 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,511 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,512 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-04-20 18:07:39,515 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-20 18:07:39,566 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-04-20 18:07:39,621 [INFO] Updater:1134 - Updater Version found : 6.14.0
+2025-04-20 18:07:39,630 [INFO] ApplicationProperties:184 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-20 18:07:40,027 [INFO] MainUpdater:2872 - connection check result : 10
+2025-04-20 18:07:40,027 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-04-20 18:07:40,028 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.140
+2025-04-20 18:07:40,033 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-04-20 18:07:40,033 [INFO] UserAuth:171 - activating auth plugin
+2025-04-20 18:07:40,041 [INFO] UserAuth:486 - Internet connection configuration mode: 1
+2025-04-20 18:07:40,049 [INFO] JxBrowserEngine:152 - Initiate JxBrowser Engine with user profile folder
+2025-04-20 18:07:40,326 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-04-20 18:07:41,555 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-04-20 18:07:41,568 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-04-20 18:07:41,576 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.1
+2025-04-20 18:07:41,585 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-04-20 18:07:41,597 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.1.1.0
+2025-04-20 18:07:41,633 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-04-20 18:07:41,651 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2025-04-20 18:07:41,707 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.0
+2025-04-20 18:07:41,739 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-04-20 18:07:41,765 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2025-04-20 18:07:41,776 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-04-20 18:07:41,794 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.0.0
+2025-04-20 18:07:41,805 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-04-20 18:07:41,817 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.0.0
+2025-04-20 18:07:41,822 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-04-20 18:07:41,826 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-04-20 18:07:41,899 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.1.0
+2025-04-20 18:07:42,028 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-20 18:07:42,029 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-20 18:07:42,030 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-20 18:07:42,031 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-20 18:07:42,032 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-20 18:07:42,039 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-04-20 18:07:42,062 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-04-20 18:07:42,066 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.0
+2025-04-20 18:07:42,075 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2025-04-20 18:07:42,080 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-04-20 18:07:42,086 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-04-20 18:07:42,092 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-04-20 18:07:42,140 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.2.0
+2025-04-20 18:07:42,387 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-04-20 18:07:42,429 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-04-20 18:07:42,438 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-04-20 18:07:42,453 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-04-20 18:07:42,461 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-04-20 18:07:42,468 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-04-20 18:07:42,472 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-04-20 18:07:42,475 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-04-20 18:07:42,533 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-20 18:07:42,534 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-20 18:07:42,534 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-20 18:07:42,542 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.1.0
+2025-04-20 18:07:42,548 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.7.4
+2025-04-20 18:07:42,554 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-04-20 18:07:42,593 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-04-20 18:07:42,613 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-04-20 18:07:42,626 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.1.0
+2025-04-20 18:07:42,671 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-04-20 18:07:42,688 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-04-20 18:07:42,692 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-04-20 18:07:42,705 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-04-20 18:07:42,715 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-04-20 18:07:42,722 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.2.0
+2025-04-20 18:07:42,727 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.0
+2025-04-20 18:07:42,732 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2025-04-20 18:07:42,736 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-04-20 18:07:42,753 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-20 18:07:42,754 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-04-20 18:07:42,756 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-20 18:07:42,756 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-20 18:07:42,757 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-20 18:07:42,768 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-04-20 18:07:42,788 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.3.0
+2025-04-20 18:07:42,803 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.0.0
+2025-04-20 18:07:42,820 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,820 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,823 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-04-20 18:07:42,825 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,826 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,826 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,826 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,827 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-20 18:07:42,833 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-04-20 18:07:42,841 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-04-20 18:07:42,849 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.0.0
+2025-04-20 18:07:42,861 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-04-20 18:07:42,885 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-04-20 18:07:42,894 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-04-20 18:07:42,906 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-04-20 18:07:42,915 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-04-20 18:07:42,920 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-04-20 18:07:42,923 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.24.2
+2025-04-20 18:07:42,925 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.24.1
+2025-04-20 18:07:42,927 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.4.0
+2025-04-20 18:07:42,931 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2025-04-20 18:07:42,950 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.0.0
+2025-04-20 18:07:42,963 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.2
+2025-04-20 18:07:42,995 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-04-20 18:07:43,012 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.17
+2025-04-20 18:07:43,014 [INFO] ThirdParty:978 - Integrity check success = true
+2025-04-20 18:07:43,014 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-04-20 18:07:43,014 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-04-20 18:07:43,952 [INFO] WebApp:169 - Instantiating new browser for Auth
+2025-04-20 18:07:44,890 [INFO] WebApp:463 - Apply proxy settings
+2025-04-20 18:07:44,900 [INFO] WebApp:508 - Chromium authenticates against Manually configured proxy
+2025-04-20 18:07:44,911 [INFO] WebApp:516 - Username used for proxy authentication: 
+2025-04-20 18:07:44,945 [INFO] WebApp:894 - Register for checkConnection events
+2025-04-20 18:07:44,945 [INFO] WebApp:463 - Apply proxy settings
+2025-04-20 18:07:44,949 [INFO] WebApp:508 - Chromium authenticates against Manually configured proxy
+2025-04-20 18:07:44,949 [INFO] WebApp:516 - Username used for proxy authentication: 
+2025-04-20 18:07:45,061 [INFO] WebApp:225 - Starting web application
+2025-04-20 18:07:45,062 [INFO] WebApp:593 - Web application path used /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.14.0.202502271554/db/plugins/mcufinder/reactClient1/index.html
+2025-04-20 18:07:46,096 [INFO] WebApp:191 - Connection restablished
+2025-04-20 18:11:13,808 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.macosx.exe.debug.926920777: 
+2025-04-20 18:11:13,812 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:11:13,815 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:11:13,815 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:11:13,816 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:11:13,817 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:11:13,818 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:11:13,818 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:11:13,818 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:11:13,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:11:13,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:11:13,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1185)
+2025-04-20 18:11:13,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+2025-04-20 18:11:13,819 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:283)
+2025-04-20 18:11:13,820 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:437)
+2025-04-20 18:11:13,820 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+2025-04-20 18:11:13,820 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:799)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:154)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:11:13,821 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:11:13,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:11:13,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:11:13,822 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:11:13,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:11:13,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:11:13,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:11:13,823 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:11:13,824 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:11:13,825 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:11:13,826 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:11:13,826 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:11:13,826 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:11:13,826 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:11:13,827 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 18:11:53,332 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.cross.exe.debug.1927701774: 
+2025-04-20 18:11:53,332 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:11:53,332 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:11:53,332 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:11:53,333 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:11:53,333 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:11:53,333 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:11:53,333 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:11:53,333 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:11:53,334 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:11:53,335 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:11:53,336 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:11:53,337 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:11:53,337 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:11:53,337 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:11:53,337 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:11:53,337 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:11:53,338 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:11:53,339 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:11:53,340 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.handlePostSelect(StructuredViewer.java:1185)
+2025-04-20 18:11:53,340 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+2025-04-20 18:11:53,340 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy.firePostSelectionEvent(OpenStrategy.java:283)
+2025-04-20 18:11:53,340 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.OpenStrategy$1.lambda$1(OpenStrategy.java:437)
+2025-04-20 18:11:53,340 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.open(Window.java:799)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:154)
+2025-04-20 18:11:53,341 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:11:53,342 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:11:53,342 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:11:53,342 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:11:53,343 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:11:53,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:11:53,345 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:11:53,345 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:11:53,345 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:11:53,345 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:11:53,346 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:11:53,346 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:11:53,346 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:11:53,347 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:11:53,348 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:11:53,349 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:11:53,350 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:11:53,350 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:11:53,350 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 18:12:11,394 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.macosx.exe.debug.926920777: 
+2025-04-20 18:12:11,394 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:12:11,395 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1665)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1091)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:990)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:668)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.lambda$0(PreferenceDialog.java:348)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:345)
+2025-04-20 18:12:11,396 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1092)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:84)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.createDialog(PropertyDialogAction.java:170)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:152)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:12:11,397 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:12:11,398 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:12:11,399 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:12:11,399 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:12:11,399 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:12:11,399 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:12:11,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:12:11,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:12:11,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:12:11,401 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:12:11,401 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:12:11,401 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:12:11,402 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:12:11,402 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:12:11,402 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:12:11,402 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 18:14:00,625 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.macosx.exe.debug.926920777: 
+2025-04-20 18:14:00,625 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:14:00,625 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:14:00,626 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1665)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1091)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:990)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:668)
+2025-04-20 18:14:00,627 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.lambda$0(PreferenceDialog.java:348)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:345)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1092)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:84)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.createDialog(PropertyDialogAction.java:170)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:152)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:14:00,628 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:14:00,629 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:14:00,630 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:14:00,630 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:14:00,631 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:14:00,631 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:14:00,631 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:14:00,631 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:14:00,632 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:14:00,632 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:14:00,633 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 18:16:43,121 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.macosx.exe.debug.264130677: 
+2025-04-20 18:16:43,125 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:16:43,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1665)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1091)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:990)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:668)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.lambda$0(PreferenceDialog.java:348)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:345)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2025-04-20 18:16:43,127 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1092)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:84)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.createDialog(PropertyDialogAction.java:170)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:152)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:16:43,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:16:43,129 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 18:17:04,975 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] org.eclipse.cdt.managedbuilder.core.BuildException: No toolchain option in toolchain configuration cdt.managedbuild.toolchain.gnu.macosx.exe.debug.1972655871: 
+2025-04-20 18:17:04,976 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainId(ToolChainHelper.java:166)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ToolChainHelper.getToolChainInfo(ToolChainHelper.java:109)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.toolchain.ui.unmanaged.ToolSettingsTab.createControls(ToolSettingsTab.java:149)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.createControls(AbstractCPropertyTab.java:139)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadTab(AbstractPage.java:1199)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.loadExtensionsSynchronized(AbstractPage.java:1143)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createWidgets(AbstractPage.java:373)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.contentForCDT(AbstractPage.java:359)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.ui.newui.AbstractPage.createContents(AbstractPage.java:256)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferencePage.createControl(PreferencePage.java:244)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createPageControl(PreferenceDialog.java:1433)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$8.run(PreferenceDialog.java:1196)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.showPage(PreferenceDialog.java:1188)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.showPage(FilteredPreferenceDialog.java:618)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.lambda$0(PreferenceDialog.java:660)
+2025-04-20 18:17:04,977 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog$5.selectionChanged(PreferenceDialog.java:657)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:820)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:817)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.ColumnViewer.firePostSelectionChanged(ColumnViewer.java:1065)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1665)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1091)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.selectSavedItem(PreferenceDialog.java:990)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.FilteredPreferenceDialog.selectSavedItem(FilteredPreferenceDialog.java:668)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.lambda$0(PreferenceDialog.java:348)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.preference.PreferenceDialog.createContents(PreferenceDialog.java:345)
+2025-04-20 18:17:04,978 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.window.Window.create(Window.java:431)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1092)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.dialogs.PropertyDialog.createDialogOn(PropertyDialog.java:84)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.createDialog(PropertyDialogAction.java:170)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:152)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1645)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1630)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1392)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+2025-04-20 18:17:04,979 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+2025-04-20 18:17:04,980 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+2025-04-20 18:17:04,981 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+2025-04-20 18:17:04,982 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+2025-04-20 19:14:08,403 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:14:10,451 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:16:24,230 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:16:24,636 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:18:13,208 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:18:13,676 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:18:42,112 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:18:42,538 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:24:02,858 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:24:03,584 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:26:48,855 [INFO] WebApp:194 - Connection lost
+2025-04-20 19:26:50,447 [INFO] WebApp:191 - Connection restablished
+2025-04-20 19:27:06,158 [INFO] WebApp:194 - Connection lost

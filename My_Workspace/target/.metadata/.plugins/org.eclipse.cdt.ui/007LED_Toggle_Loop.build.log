@@ -1,0 +1,10 @@
+17:13:37 **** Incremental Build of configuration Debug for project 007LED_Toggle_Loop ****
+make -j11 all 
+arm-none-eabi-size  007LED_Toggle_Loop.elf 
+   text	   data	    bss	    dec	    hex	filename
+    780	      0	   1568	   2348	    92c	007LED_Toggle_Loop.elf
+Finished building: default.size.stdout
+ 
+
+17:13:37 Build Finished. 0 errors, 0 warnings. (took 116ms)
+

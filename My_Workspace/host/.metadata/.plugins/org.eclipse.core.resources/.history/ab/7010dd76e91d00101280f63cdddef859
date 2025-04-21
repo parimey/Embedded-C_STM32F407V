@@ -1,0 +1,36 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 20, 2025
+ *      Author: parimeydpatil
+ */
+
+
+#include <stdio.h>
+#include <stdint.h>
+#include <stdlib.h>
+
+struct packet
+{
+	uint8_t  addr_mode;
+	uint8_t  short_addr;
+	uint8_t  long_addr;
+	uint8_t  sensor;
+	uint8_t  bat;
+	uint16_t  payload;
+	uint8_t  status;
+	uint8_t  crc;
+};
+
+int main()
+{
+	uint32_t packetValue;
+
+	printf("Enter the 32 bit packet value: ");
+	scanf("%d",&packetValue);
+
+
+
+
+	return 0;
+}
