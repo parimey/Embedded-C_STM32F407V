@@ -127,3 +127,16 @@ Caused by: org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 10; DOCTY
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-02-19 23:24:40.405
 !MESSAGE Indexed '005led_toggle' (3 sources, 53 headers) in 0.104 sec: 1,957 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+!SESSION 2025-04-09 09:13:54.507 -----------------------------------------------
+eclipse.buildId=Version 1.18.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -keyring /Users/parimeydpatil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/parimeydpatil/.eclipse_keyring -data /Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/Instructor/target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-09 09:14:17.174
+!MESSAGE Log4j2 initialized with config file /Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/Instructor/target/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-09 09:14:29.391
+!MESSAGE Started RMI Server, listening on port 41338

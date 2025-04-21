@@ -1,24 +1,24 @@
-09:33:57 **** Build of configuration Debug for project 006LED_ON_Bitwise_Shift_Operator ****
+19:23:34 **** Build of configuration Debug for project 010ButtonPressISR ****
 make -j11 all 
 arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -x assembler-with-cpp -MMD -MP -MF"Startup/startup_stm32f407vgtx.d" -MT"Startup/startup_stm32f407vgtx.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Startup/startup_stm32f407vgtx.o" "../Startup/startup_stm32f407vgtx.s"
-arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
-arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
-arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
-arm-none-eabi-gcc -o "006LED_ON_Bitwise_Shift_Operator.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/My_Workspace/target/006LED_ON_Bitwise_Shift_Operator/STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="006LED_ON_Bitwise_Shift_Operator.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: 006LED_ON_Bitwise_Shift_Operator.elf
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
+arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
+arm-none-eabi-gcc -o "010ButtonPressISR.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/parimeydpatil/Embedded-C_Udemy/Embedded-C_Udemy/My_Workspace/target/010ButtonPressISR/STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="010ButtonPressISR.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 010ButtonPressISR.elf
  
-arm-none-eabi-size  006LED_ON_Bitwise_Shift_Operator.elf 
-arm-none-eabi-objdump -h -S 006LED_ON_Bitwise_Shift_Operator.elf  > "006LED_ON_Bitwise_Shift_Operator.list"
+arm-none-eabi-size  010ButtonPressISR.elf 
+arm-none-eabi-objdump -h -S 010ButtonPressISR.elf  > "010ButtonPressISR.list"
    text	   data	    bss	    dec	    hex	filename
-    728	      0	   1568	   2296	    8f8	006LED_ON_Bitwise_Shift_Operator.elf
+   4888	    116	   1908	   6912	   1b00	010ButtonPressISR.elf
 Finished building: default.size.stdout
  
-Finished building: 006LED_ON_Bitwise_Shift_Operator.list
+Finished building: 010ButtonPressISR.list
  
-09:34:03 **** Incremental Build of configuration Debug for project 006LED_ON_Bitwise_Shift_Operator ****
+19:23:41 **** Incremental Build of configuration Debug for project 010ButtonPressISR ****
 make -j11 all 
-arm-none-eabi-size  006LED_ON_Bitwise_Shift_Operator.elf 
+arm-none-eabi-size  010ButtonPressISR.elf 
    text	   data	    bss	    dec	    hex	filename
-    728	      0	   1568	   2296	    8f8	006LED_ON_Bitwise_Shift_Operator.elf
+   4888	    116	   1908	   6912	   1b00	010ButtonPressISR.elf
 Finished building: default.size.stdout
  
