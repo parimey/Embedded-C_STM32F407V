@@ -1,0 +1,48 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 21, 2025
+ *      Author: parimeydpatil
+ */
+
+
+#include <stdio.h>
+
+//Size of union is 4 bytes
+//In this case, no need to rewrite as the packet value will be written exactly as to be
+//extracted by the bit fields
+
+union packet
+{
+	uint32_t packetValue;
+	struct
+	{
+		uint8_t  addr_mode;
+		uint8_t  short_addr;
+		uint8_t  long_addr;
+		uint8_t  sensor;
+		uint8_t  bat;
+		uint16_t  payload;
+		uint8_t  status;
+		uint8_t  crc;
+	}packetFields;
+};
+
+int main()
+{
+	union packet packet;
+
+	printf("Enter the 32 bit packet value: ");
+	scanf("%X",&packet.packetValue);
+
+	printf("addr_mode:	%#x\n",packet.packetFields.addr_mode);
+	printf("short_addr:	%#x\n",packet.packetFields.short_addr);
+	printf("long_addr:	%#x\n",packet.packetFields.long_addr);
+	printf("sensor:		%#x\n",packet.packetFields.sensor);
+	printf("bat:		%#x\n",packet.packetFields.bat);
+	printf("payload:	%#x\n",packet.packetFields.payload);
+	printf("status: 	%#x\n",packet.packetFields.status);
+	printf("crc: 		%#x\n",packet.packetFields.crc);
+
+	return 0;
+}

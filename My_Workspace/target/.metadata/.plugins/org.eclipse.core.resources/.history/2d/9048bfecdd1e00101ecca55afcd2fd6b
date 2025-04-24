@@ -1,0 +1,16 @@
+/*
+ * main.h
+ *
+ *  Created on: Apr 21, 2025
+ *      Author: parimeydpatil
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+typedef struct
+{
+
+};
+
+#endif /* MAIN_H_ */

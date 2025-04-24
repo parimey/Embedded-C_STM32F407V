@@ -470,3 +470,6 @@ java.lang.NullPointerException: Cannot invoke "java.util.List.get(int)" because 
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-04-20 18:19:48.053
 !MESSAGE Indexed '002StructureDecodePacketExercise_2' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-21 23:11:20.748
+!MESSAGE Indexed '003Unions' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

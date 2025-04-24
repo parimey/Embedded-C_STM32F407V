@@ -1,0 +1,41 @@
+/*
+ * main.h
+ *
+ *  Created on: Apr 21, 2025
+ *      Author: parimeydpatil
+ */
+
+#ifndef MAIN_H_
+#define MAIN_H_
+
+#include <stdint.h>
+
+typedef struct
+{
+	uint32_t GPIOAEN:1;
+	uint32_t GPIOBEN:1;
+	uint32_t GPIOCEN:1;
+	uint32_t GPIODEN:1;
+	uint32_t GPIOEEN:1;
+	uint32_t GPIOFEN:1;
+	uint32_t GPIOGEN:1;
+	uint32_t GPIOHEN:1;
+	uint32_t GPIOIEN:1;
+	uint32_t GPIOJEN:1;
+	uint32_t GPIOKEN:1;
+	uint32_t reserved1:1;
+	uint32_t CRCRST:1;
+	uint32_t reserved2:8;
+	uint32_t DMA1RST:1;
+	uint32_t DMA2RST:1;
+	uint32_t DMA2DRST:1;
+	uint32_t reserved3:1;
+	uint32_t ETHMACRST:1;
+	uint32_t reserved4:3;
+	uint32_t OTGHSRST:1;
+	uint32_t reserved5:2;
+
+
+}RCC_AHB1ENR_t;//size of register is 32 bits, hence using uint32 as data type
+
+#endif /* MAIN_H_ */
